@@ -1,0 +1,21 @@
+*{
+margin-top = 20px
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+
+}
+
+.button{
+
+background-color: #FFFFFF
+color = #FFFFFF;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
